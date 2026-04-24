@@ -2,7 +2,7 @@
 <h3><strong>EasySFX</strong></h3>
 <strong>An easy to understand roblox module for managing sounds and sound effects.</strong>
 <br><br>
-<a href="https://withoutruless.github.io/EasySFX/"><img src="./svgs/documentation_learn.svg"></img></a>
+<a href="https://ghoste0001.github.io/EasySFX/"><img src="./svgs/documentation_learn.svg"></img></a>
 &nbsp;<a href="https://create.roblox.com/store/asset/121810074935113"><img src="./svgs/roblox.svg"></img></a>
 <br><br>
 
