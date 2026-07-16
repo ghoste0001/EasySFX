@@ -6,6 +6,9 @@ permissions:
 on:
   push:
     branches: [main] # Or whatever branch contains your MkDocs source
+    paths:
+      - mkdocs.yml
+      - docs/
 
 jobs:
   build-and-deploy:

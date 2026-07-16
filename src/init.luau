@@ -1,8 +1,8 @@
 --!optimize 2
 --!native
 
--- Version: [1.0.2]
--- EasySFX, a simple sound effect management module by [@Withoutruless].
+-- @version: v1.0.2
+-- @description: EasySFX, a simple sound effect management module by Withoutruless.
 -- Feel free to modify anything and use it for your games,
 -- Crediting me would be appreciated but its not necessary.
 
